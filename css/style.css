@@ -319,12 +319,12 @@ video#herovideo{
 }
 
 @keyframes changetext{
-0%{ content: 'UX developer'; }
-20%{ content: 'UI developer'; }
-40%{ content: 'GUI developer'; }
-60%{ content: 'game developer'; }
-80%{ content: 'chatbot developer'; }
-100%{ content: 'full stack developer'; }
+0%{ content: 'SOC Analyst'; }
+20%{ content: 'Red Teamer'; }
+40%{ content: 'Pen-tester'; }
+60%{ content: 'Reverse Engineer'; }
+80%{ content: 'Malware Analyst'; }
+100%{ content: 'Cybersecurity Analyst and Programmer'; }
 
 }
 #VidBtn{
